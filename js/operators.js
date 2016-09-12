@@ -16,7 +16,7 @@
 // -- decrement
 
 // && and
-// || or
+
 
 if (10 <= 20)
 {
@@ -33,7 +33,7 @@ if (1 == 1)
     console.log("One is equal to One");
 }
 
-if (5 != 1)
+if (10 != 1)
 {
     console.log("5 is not equal to 1");
 }
