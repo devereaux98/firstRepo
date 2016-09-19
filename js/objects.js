@@ -25,4 +25,4 @@ var Robot =
 
 Robot.speed += parseInt( prompt ("Increase Robot Speed.") );
 alert("Our robot now has a speed of " + Robot.speed);
-Robot.UpgradeArmor (prompt("WHat should we upgrade the armor to?"));
+Robot.UpgradeArmor (prompt("What should we upgrade the armor to?"));
