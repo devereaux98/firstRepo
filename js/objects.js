@@ -14,12 +14,12 @@ var Robot =
 
     UpgradeArmor: function (change)
     {
-        armor = change;
+        this.armor = change;
     },
 
     ChangeWeapon: function (change)
     {
-        weapon = change;
+        this.weapon = change;
     }
 }
 
