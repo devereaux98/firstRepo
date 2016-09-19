@@ -20,8 +20,9 @@ var Robot =
     ChangeWeapon: function (change)
     {
         weapon = change;
-    },
+    }
 }
 
 Robot.speed += parseInt( prompt ("Increase Robot Speed.") );
 alert("Our robot now has a speed of" + Robot.speed);
+Robot.Upgrade
